@@ -19,3 +19,5 @@ Data can be downloaded here: https://snap.stanford.edu/data/loc-gowalla.html
 
 # Context
 This project was carried out as a validation of the Recommendation System course given by Marie Al-Ghossein and Jean-Baptiste Griesner as part of the Master Data Sciences at École Polytechnique.
+
+Authors: Cédric Allain, Clotilde Miura, Manon Rivoire, Adriano Del Gallo and Saousan Kaddami
